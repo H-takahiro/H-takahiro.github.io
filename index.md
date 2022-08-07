@@ -1,7 +1,7 @@
 ## About
 - Takahiro HHASEGAWA
 - Master's student
-- hasegawa.t.ba@m.titech.ac.jp
+- hasegawa.t.ba[at]m.titech.ac.jp
 
 ## Research
 - Catalytic chemistry
