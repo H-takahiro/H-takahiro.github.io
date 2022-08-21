@@ -1,4 +1,5 @@
-![Branching](sample.jpg)
+![Branching](https://github.com/H-takahiro/H-takahiro.github.io/blob/main/sample.jpg?raw=true)
+
 ## About
 - Takahiro HASEGAWA
 - Master's student
